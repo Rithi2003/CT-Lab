@@ -1,0 +1,536 @@
+[
+  {
+    "name": "COLDACT NEW Capsule 20",
+    "price": "67",
+    "description": "COLDACT CAPSULE is a combination of Phenylephrine and Chlorpheniramine which belongs to the group of medicines called Nasal decongestants and Antihistamines respectively.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697981078/products/cough%20and%20cold/coldact-cold-relief-tablet-500x500_uiggw2.webp"
+      }
+    ],
+    "category": "Cold and cough",
+    "seller": "MedPlus",
+    "stock": 125,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "JinCold Capsule 20",
+    "price": "100",
+    "description": "Zincold Tablet is a combination medicine that effectively relieves symptoms of common cold such as blocked nose, runny nose, watery eyes, sneezing, and congestion or stuffiness. It helps to loosen thick mucus, making it easier to cough out. This makes it easier for air to move in and out.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979442/products/cough%20and%20cold/jincold_cxogwg.webp"
+      }
+    ],
+    "category": "Cold and cough",
+    "seller": "MediPlus",
+    "stock": 125,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Himalaya Tulsi Syrup",
+    "price": "90",
+    "description": "Himalaya Tulasi Syrup helps suppress cough and aids the mobilization of mucus. It assists in calming and dilating the lung's airways providing relief.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979389/products/cough%20and%20cold/tulsi_syrup_ta3ohd.webp"
+      }
+    ],
+    "category": "Cold and cough",
+    "seller": "Himalaya",
+    "stock": 120,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Aayudh Syrup",
+    "price": "80",
+    "description": "It is made using a variety of natural herbs with antiviral and immunity boosting properties that makes it helpful in case of viral infections and to increase the body's immunity. It is beneficial in viral and bacterial infections, sore throat, cough and cold, flu, etc., with antioxidant and immunomodulatory properties.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979292/products/cough%20and%20cold/aayudh_gu7lnd.webp"
+      }
+    ],
+    "category": "Cold and cough",
+    "seller": "MedPlus",
+    "stock": 50,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Crocin tablet",
+    "price": "50",
+    "description": "It is used to reduce fever and treat mild to moderate pain. Also, it is used to relieve headache, migraine, toothache.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979040/products/cough%20and%20cold/crocin_vnhnsa.jpg"
+      }
+    ],
+    "category": "Cold and cough",
+    "seller": "MediPlus",
+    "stock": 150,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Cofsils",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1698169267/products/cough%20and%20cold/cofsil_ddggsf.webp"
+      }
+    ],
+    "category": "Cold and cough",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+
+  {
+    "name": "Medformin Hydrochloride tablet",
+    "price": "73",
+    "description": "Metformin is used to treat high blood sugar levels that are caused by a type of diabetes mellitus or sugar diabetes called type 2 diabetes.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1698210992/products/diabetics/d_hcl_qgbslq.webp"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Glucophage",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Sunrise Diabic Care Juice",
+    "price": "170",
+    "description": "Diabic Care Juice is beneficial in controlling all types of diabetes naturally, urinary disorder, frequent urination etc. Stimulate insulin secretion and helps in boosting immunity.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980823/products/diabetics/d4_jwe7xn.jpg"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Metex",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Easy Touch Control Solution",
+    "price": "60",
+    "description": "Glucose Monitoring system is working correctly and giving accurate results. The system is performing correctly if the control solution test result falls within the specific control solution range listed on your Test Strip vial.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980820/products/diabetics/d3_aw5mqd.jpg"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Diabex",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "G-Leuhr Diaboherb Liquid",
+    "price": "110",
+    "description": "Diaboherb Plus Oral Liquid is a natural herbal medicine that helps to stimulate the pancreatic cells to produce more insulin thereby controlling the blood sugar levels.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980819/products/diabetics/d2_t44mrh.webp"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Diaformin",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "One Touch glucometer",
+    "price": "70",
+    "description": "Recognize the pattern of blood glucose levels (when the blood glucose levels are likely to become high or low).",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980817/products/diabetics/d1_wsjdec.webp"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Metex",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  
+
+  {
+    "name": "Saridon",
+    "price": "40",
+    "description": "Saridon Tablet is used to treat headaches, Toothache, Back pain, and arthritis. It has Caffeine, Paracetamol, and Propyphenazone as an active ingredient, which used to treat acute pain.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979833/products/headache/h-saridon_x0lodz.webp"
+      }
+    ],
+    "category": "Headache",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Apo-dolor headache drops",
+    "price": "70",
+    "description": "Headache Drops are effective for treating headache, migraine, mental stress, indigestion, nervousness, headache associated with nausea and vomiting.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979832/products/headache/h-dolor_fxv53v.webp"
+      }
+    ],
+    "category": "Headache",
+    "seller": "Apo-dolor",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Pipal headache balm",
+    "price": "50",
+    "description": "Used to relieve severe headaches. It gives a very pleasant heating sensation when rubbed into the skin and cures pains, sprains and cold symptoms.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979831/products/headache/h-pipal_mw3bam.jpg"
+      }
+    ],
+    "category": "Headache",
+    "seller": "Pipal",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Go-Mygraine tablets",
+    "price": "60",
+    "description": "It contains ashwagandha, which relieves migraines by soothing the nervous system and helps with stress and anxiety.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979831/products/headache/h-mygraine_ockaa8.jpg"
+      }
+    ],
+    "category": "Headache",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Combiflam headache tablet",
+    "price": "80",
+    "description": "Combiflam tablet is a pain-relieving medicine. This is used to relieve headaches, toothache, body aches, muscle pain, and joint pain and to reduce fever.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979829/products/headache/h-combiflam_qx6sgu.webp"
+      }
+    ],
+    "category": "Headache",
+    "seller": "Combiflam",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Himalaya pain balm",
+    "price": "40",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979828/products/headache/h-balm_mcrsre.webp"
+      }
+    ],
+    "category": "Headache",
+    "seller": "Himalaya",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "Rashtin",
+    "price": "90",
+    "description": "Contains Benzalkonium and Zinc oxide and is used to treat rash and skin irritations.It helps in decreasing skin infections.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979970/products/skin/skinr_oy2zyd.webp"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979969/products/skin/skin5_jgvymz.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979968/products/skin/skin4_x32hbl.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979967/products/skin/skin3_fzi8w7.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979966/products/skin/skin2_xux7t4.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979965/products/skin/skin1_h6ios0.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979742/products/stomach/s-imodium_fjb8vc.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1698170481/products/stomach/gelusil_5x5_gy5bjc.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979693/products/stomach/s-gaviscon_p6vj4i.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979656/products/stomach/s-gastune_duknyt.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979650/products/stomach/s-camypan_phzgtc.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "tablet",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979621/products/stomach/s-apostom_wtazb0.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  }
+]
